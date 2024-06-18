@@ -1,0 +1,19 @@
+# Change this file to contain the machines that you want to use
+# to run MPI jobs on.  The format is one host name per line, with either
+#    hostname
+# or 
+#    hostname:n
+# where n is the number of processors in an SMP.  The hostname should
+# be the same as the result from the command "hostname"
+hammer.eri.ucsb.edu
+#slcm:2
+#slc1s:2
+#slc2s:2
+#slc3s:2
+#slc4s:2
+#slc5s:2
+#slc6s:2
+#slc7s:2
+#slc8s:2
+#slc9s:2
+#slc10s:2
